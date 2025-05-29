@@ -27,6 +27,8 @@ Conducted evaluation using classification metrics (accuracy, precision, recall)
 
 Participated in conference presentation of results
 
+Collaborated with 4 members
+
 ## 🖼️ Results:
 Model successfully classified skin lesions into 7 types
 
