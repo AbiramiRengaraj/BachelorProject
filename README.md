@@ -10,13 +10,13 @@ Manual diagnosis of skin cancer through dermoscopy is subjective and error-prone
 ## 🛠️ Tech Stack:
 Languages: Python
 
-## Libraries: TensorFlow, Keras, OpenCV
+Libraries: TensorFlow, Keras, OpenCV
 
-## Techniques: CNN, DenseNet, Transfer Learning, Image Augmentation
+Techniques: CNN, DenseNet, Transfer Learning, Image Augmentation
 
-## Tools: Google Colab / Jupyter Notebook
+Tools: Google Colab / Jupyter Notebook
 
-## Dataset: ISIC 2018 Dataset (publicly available)
+Dataset: ISIC 2018 Dataset (publicly available)
 
 ## 👨‍💻 My Role:
 Led the model design and training using DenseNet architecture
